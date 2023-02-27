@@ -1,7 +1,7 @@
 ## 🍋 Hi I'm Oğuzhan, Full Stack Developer
 
 - 📫 Contact me: unequaled86@gmail.com.
-- 🐒 I like to read about astronomy, play video games, design electronic circuits, play guitar, deal with terrarium and ant colony
+- 🐒 I like write code
 
 #### Top Technologies
 
